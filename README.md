@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**SujayBonde/SujayBonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I’m **Sujay**  
+This space is where I share my journey in **Computer Engineering, Development, and AI/ML projects**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 Computer Engineering (Final Year)  
+- 🚀 Preparing for placements & building development skills  
+- 💻 Passionate about **Java, Spring Boot, MERN, and AI‑integrated web apps**  
+- 🔐 Exploring **Spring Security & JWT authentication**  
+
+---
+
+## 🛠️ Skills & Interests
+- **Languages:** Java, Javascript, C++, Python  
+- **Frameworks:** Spring Boot, React, Tailwind CSS  
+- **Focus Areas:** Full‑stack development, AI/ML integration, secure authentication  
+
+---
+
+## 📂 Featured Work
+- 🔐 Secure backend with JWT + React UI  
+- 🌐 AI‑powered web applications  
+- 🎯 Placement prep projects in Java  
+
+---
+
+## 🤝 Let’s Connect
+- 📧 Email: sujaybonde2005@gmail.com  
+- 💼 LinkedIn: [Sujay Bonde](https://www.linkedin.com/in/sujay-bonde/)  
+- 🌐 GitHub: [SujayBonde](https://github.com/SujayBonde)  
+
+---
+
+<p align="center">✨ Thanks for visiting my profile — stay tuned for more projects! ✨</p>

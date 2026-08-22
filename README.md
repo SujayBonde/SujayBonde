@@ -84,31 +84,10 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SujayBonde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SujayBonde&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayBonde&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayBonde&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SujayBonde&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -148,5 +127,5 @@
 <h2 align="center">✨ Thanks for visiting my GitHub Profile! ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB;Keep+Learning+%F0%9F%9A%80;Build+Something+Amazing+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+💻;Keep+Learning+🚀;Build+Something+Amazing+✨"/>
 </p>

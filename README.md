@@ -3,7 +3,7 @@
   Hi 👋, I'm <span style="color:#00C2FF;">Sujay Bonde</span>
 </h1>
 
-<h3 align="center">🚀 Computer Engineering Student | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | MERN Stack Developer | Java Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+%7C+Spring+Boot+Developer;React+%7C+MERN+Stack+Learner;AI+Integrated+Web+Application+Builder;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG"/>

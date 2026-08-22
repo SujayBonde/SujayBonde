@@ -1,33 +1,44 @@
-<!-- Banner -->
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00C2FF;">Sujay Bonde</span>
-</h1>
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=220&section=header&text=Sujay%20Bonde&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20MERN%20Stack%20Developer%20|%20Java%20Full%20Stack%20Developer&descAlignY=58&descAlign=50"/>
+</p>
 
-<h3 align="center">Computer Engineering Student | MERN Stack Developer | Java Full Stack Developer</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+%7C+Spring+Boot+Developer;React+%7C+MERN+Stack+Developer;AI+Integrated+Web+Application+Builder;Always+Learning+New+Technologies+🚀" alt="Typing SVG"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+%7C+Spring+Boot+Developer;React+%7C+MERN+Stack+Learner;AI+Integrated+Web+Application+Builder;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://komarev.com/ghpvc/?username=SujayBonde&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 </p>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C2FF,100:6A5ACD"/>
 
 # 💫 About Me
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 **Final Year Computer Engineering Student**
+🎓 Final Year **Computer Engineering Student**
 
 💻 Passionate about building **Modern Full Stack Applications**
+
+⚛️ MERN Stack Developer & Java Full Stack Developer
 
 🤖 Exploring **AI/ML Integration in Web Applications**
 
 🔐 Learning **Spring Security + JWT Authentication**
 
-🌱 Currently improving **DSA, Java Backend & MERN Stack**
+🌱 Improving **DSA, Java Backend, React & System Design**
 
-🎯 Goal: Become a **Software Engineer** and build impactful products.
+🎯 **Goal:** Become a Software Engineer and build impactful, scalable products.
+
+<br clear="right"/>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A5ACD,100:00C2FF"/>
 
 # 🌐 Connect With Me
 
@@ -47,76 +58,148 @@
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C2FF,100:00BFFF"/>
+
 # 🚀 Tech Stack
 
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,c,mysql"/>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,c,mysql&perline=6"/>
 </p>
 
 ## ⚙️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind,bootstrap,mongodb&perline=7"/>
 </p>
 
 ## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,mongodb,linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,figma&perline=7"/>
 </p>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00BFFF,100:6A5ACD"/>
 
 # 📂 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 🔥 Project | 🚀 Description |
-|------------|----------------|
-| 🔐 **JWT Authentication System** | Secure Spring Boot backend with JWT authentication and React frontend. |
-| 🌐 **AI Powered Web App** | Integrated AI features into modern web applications. |
-| 🎯 **Java Placement Projects** | Collection of Java projects focused on interviews and placements. |
-| 💬 **MERN Stack Applications** | Responsive full-stack applications using MongoDB, Express, React & Node.js. |
+### 🔐 JWT Authentication System
 
-</div>
+- Spring Boot + Spring Security
+- JWT Authentication & Authorization
+- React Frontend
+- Secure REST APIs
+
+</td>
+
+<td width="50%">
+
+### 🌐 AI Powered Web Applications
+
+- AI-integrated web apps
+- React + Spring Boot
+- REST API integration
+- Responsive UI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 MERN Stack Applications
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+</td>
+
+<td width="50%">
+
+### 🎯 Java Placement Projects
+
+- Core Java
+- OOP Concepts
+- JDBC
+- Mini Projects for Placements
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Contribution Graph
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A5ACD,100:00C2FF"/>
+
+# 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayBonde&theme=tokyo-night&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,mongodb,aws,docker,redis"/>
+</p>
+
+- 🔐 Spring Security + JWT
+- ☁️ Backend Development with Spring Boot
+- ⚛️ Advanced React & MERN Stack
+- 🤖 AI Integration in Web Applications
+- 📚 Data Structures & Algorithms
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C2FF,100:6A5ACD"/>
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayBonde&theme=tokyo-night&hide_border=true&radius=15"/>
 </p>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00BFFF,100:6A5ACD"/>
 
 # ⚡ Current Focus
 
 ```text
-☕ Java & Spring Boot        ██████████ 100%
+☕ Java & Spring Boot         ██████████ 100%
 
-⚛️ React & MERN Stack        █████████░ 90%
+⚛️ React & MERN Stack         █████████░ 90%
 
 🔐 Spring Security + JWT      ████████░░ 80%
 
-🤖 AI/ML Integration           ███████░░░ 70%
+🤖 AI/ML Integration          ███████░░░ 70%
 
-📚 DSA & Placement Prep        █████████░ 90%
+📚 DSA & Placement Prep       █████████░ 90%
 ```
 
 ---
 
-# 👀 Visitor Counter
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A5ACD,100:00C2FF"/>
+
+# 💡 Fun Fact
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SujayBonde&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+  💻 I love turning ideas into real-world web applications.
+
+  🚀 Always exploring new technologies and improving my development skills.
+
+  🌱 Learning something new every day.
 </p>
 
 ---
 
-<h2 align="center">✨ Thanks for visiting my GitHub Profile! ✨</h2>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+💻;Keep+Learning+🚀;Build+Something+Amazing+✨"/>

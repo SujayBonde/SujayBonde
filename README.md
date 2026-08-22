@@ -14,8 +14,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C2FF,100:6A5ACD"/>
-
 # 💫 About Me
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -38,8 +36,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A5ACD,100:00C2FF"/>
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -57,8 +53,6 @@
 </p>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C2FF,100:00BFFF"/>
 
 # 🚀 Tech Stack
 
@@ -81,8 +75,6 @@
 </p>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00BFFF,100:6A5ACD"/>
 
 # 📂 Featured Projects
 
@@ -138,8 +130,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A5ACD,100:00C2FF"/>
-
 # 🌱 Currently Learning
 
 <p align="center">
@@ -154,8 +144,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C2FF,100:6A5ACD"/>
-
 # 📈 GitHub Contribution Graph
 
 <p align="center">
@@ -163,8 +151,6 @@
 </p>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00BFFF,100:6A5ACD"/>
 
 # ⚡ Current Focus
 
@@ -182,24 +168,7 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A5ACD,100:00C2FF"/>
-
-# 💡 Fun Fact
-
-<p align="center">
-  💻 I love turning ideas into real-world web applications.
-
-  🚀 Always exploring new technologies and improving my development skills.
-
-  🌱 Learning something new every day.
-</p>
-
----
-
 <!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+💻;Keep+Learning+🚀;Build+Something+Amazing+✨"/>

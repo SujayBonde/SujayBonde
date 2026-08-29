@@ -147,15 +147,15 @@
 # ⚡ Current Focus
 
 ```text
-☕ Java & Spring Boot         ██████████ 100%
+☕ Java & Spring Boot         
 
-⚛️ React & MERN Stack         █████████░ 90%
+⚛️ React & MERN Stack        
 
-🔐 Spring Security + JWT      ████████░░ 80%
+🔐 Spring Security + JWT     
 
-🤖 AI/ML Integration          ███████░░░ 70%
+🤖 AI/ML Integration  
 
-📚 DSA & Placement Prep       █████████░ 90%
+📚 DSA & Placement Prep 
 ```
 
 ---

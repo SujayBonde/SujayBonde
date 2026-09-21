@@ -12,6 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=SujayBonde&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 </p>
 
+[![Resume](https://img.shields.io/badge/Resume-View%20Resume-blue?style=for-the-badge)](https://drive.google.com/file/d/1RgwDuRXH3NRifbrufqfvlO5GomJ9L61q/view?usp=drive_link)
+
 ---
 
 # 💫 About Me
